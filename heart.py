@@ -31,8 +31,8 @@
 
 __version__ = '0.1'
 __date__ = '14 February 2014'
-__author__ = 'Susam Pal <susam@susam.in>'
-__credits__ = 'Sunaina Pai, the inspiration behind my creativity.'
+__author__ = '>'
+__credits__ = '.'
 
 
 import numpy
@@ -103,5 +103,5 @@ def plot_heart(message, signature, filename):
     pyplot.savefig(filename)
 
 if __name__ == '__main__':
-    plot_heart('I love you, my Cutie Pai!', '\u2014 Susam',
+    plot_heart('happpy valentines day adya, my Cutiepieee !', '\u',
                'heart-2014-02-14.png')
